@@ -7,5 +7,8 @@
 
 Ссылка на фреймворк: https://citrusframework.org/
 
-Документацию: https://citrusframework.org/docs/documentation/
+Документация: https://citrusframework.org/docs/documentation/
 
+Примеры использования компонентов: https://github.com/citrusframework/citrus-samples
+
+** Например использование через аннотации: https://github.com/citrusframework/citrus-samples/tree/main/sample-annotation-config
