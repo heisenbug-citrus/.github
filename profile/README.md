@@ -11,4 +11,6 @@
 
 Примеры использования компонентов: https://github.com/citrusframework/citrus-samples
 
-** Например использование через аннотации: https://github.com/citrusframework/citrus-samples/tree/main/sample-annotation-config
+* Например использование через аннотации: https://github.com/citrusframework/citrus-samples/tree/main/sample-annotation-config
+
+CI/CD example: https://github.com/toschneck/openshift-example-bakery-ci-pipeline
