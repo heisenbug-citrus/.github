@@ -14,3 +14,6 @@
 * Например использование через аннотации: https://github.com/citrusframework/citrus-samples/tree/main/sample-annotation-config
 
 CI/CD example: https://github.com/toschneck/openshift-example-bakery-ci-pipeline
+
+* https://github.com/toschneck/openshift-example-bakery-ci-pipeline/blob/master/jenkins/Jenkinsfile.qa
+* https://github.com/toschneck/openshift-example-bakery-ci-pipeline/tree/master/citrus-tests
